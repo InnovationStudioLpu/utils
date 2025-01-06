@@ -1,5 +1,3 @@
-node_modules
-dist
 # compiled output
 /dist
 /node_modules
@@ -40,4 +38,4 @@ lerna-debug.log*
 .wwebjs_cache
 .wwebjs_auth
 
-.venv
+users.json
